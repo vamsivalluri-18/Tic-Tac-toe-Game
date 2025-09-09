@@ -22,14 +22,13 @@ This project allows two players to play turn by turn on a 3×3 grid. The game au
 ---
 
 ## 🚀 How to Run
-1. Clone this repository:
+1. Clone this repository: Git clone https://github.com/vamsivalluri-18/Tic-Tac-toe-Game.git
 
-Git clone https://github.com/your-username/tic-tac-toe.git
-Open the project folder.
+2. Open the project folder.
 
-Run index.html in your browser.
+3. Run index.html in your browser.
 
-📸 Screenshot
+📸 Outpu Screenshot
 
 <img width="799" height="791" alt="Screenshot 2025-09-09 185020" src="https://github.com/user-attachments/assets/aa4c26e1-8f5a-4228-bf84-fc9b1068a377" />
 
